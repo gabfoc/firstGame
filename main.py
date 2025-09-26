@@ -1,5 +1,3 @@
-## prova git
-
 import pygame
 import random
 
